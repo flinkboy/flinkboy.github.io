@@ -1,1 +1,3 @@
-intr sg3 gh9ed 2f000
+intr: sg3
+gh9ed: 2f000
+adhoc: 10001
